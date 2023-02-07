@@ -1,0 +1,7 @@
+Source & more information: https://pinout.xyz/
+
+Pin 4 (5v Power): 5v OUT+ on first voltage stepdown converter
+Pin 6 (Ground): OUT- on first voltage stepdown converter
+Pin 16 (GPIO 23): IN1 on L298n Motor Driver
+Pin 18 (GPIO 24): IN2 on L298n Motor Driver
+Pin 22 (GPIO 25): First ENA Pin (Closest to edge) on L298n Motor Driver
